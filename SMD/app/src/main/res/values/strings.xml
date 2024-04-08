@@ -1,0 +1,21 @@
+<resources>
+    <string name="email">write email</string>
+    <string name="logo">Logo image here</string>
+    <string name="username_hint">Your First and Last name</string>
+    <string name="password_hint">should be at least 5 chars</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="sign_up">Signup</string>
+    <string name="exit">Exit</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="back_arr">Go back</string>
+    <string name="title_text">GUI Demo (21L-1818)</string>
+    <string name="tab1_text">One</string>
+    <string name="tab2_text">Two</string>
+    <string name="I_text1">1</string>
+    <string name="I_text2">2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank of tab 1</string>
+    <string name="hello_blank_fragment_2">Hello blank of tab 2</string>
+
+</resources>
